@@ -1,0 +1,36 @@
+#header{
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    width: 98%;
+    text-align: center;
+
+    font-size: 10vw;
+}
+
+#time{
+    display: block;
+    text-align: center;
+    font-size: 5vw;
+}
+
+#buttons{
+    text-align: center;
+}
+
+.myButtons{
+    height: 10%;
+    width: 10%;
+    cursor: pointer;
+    font-size: 3vw;
+}
+
+#laps{
+    text-align: center;
+    font-size: 2.7vw;
+}
+
+#display{
+    min-height: 96.5vh;
+    border: 3px solid black;
+}
